@@ -1,4 +1,4 @@
-public class Skirt extends Clothes implements Womans_clother
+public class Skirt extends Clothes implements Womans_clothes
 {
     public Skirt(ClothingSize size0, String color0 , int cost0 )// конструктор
     {

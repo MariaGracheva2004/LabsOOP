@@ -12,8 +12,8 @@ public class Main
         Trousers trousersM = new Trousers(ClothingSize.M, "синие", 3100);
         Tie tieM = new Tie(ClothingSize.XS, "белый",1200);
 
-        Womans_clother[] femaleClothes = {tShirtW, trousersW, skirtW};
-        Mens_clother[] maleClothes = {tShirtM, trousersM, tieM};
+        Womans_clothes[] femaleClothes = {tShirtW, trousersW, skirtW};
+        Mens_clothes[] maleClothes = {tShirtM, trousersM, tieM};
 
 
         Atelier atelier = new Atelier();

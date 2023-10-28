@@ -1,4 +1,4 @@
-public class Trousers extends Clothes implements Mens_clother, Womans_clother
+public class Trousers extends Clothes implements Mens_clothes, Womans_clothes
 {
     public Trousers(ClothingSize size0, String color0 , int cost0 )// конструктор
     {

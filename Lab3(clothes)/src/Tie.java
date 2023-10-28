@@ -1,6 +1,6 @@
-public class Tie extends Clothes implements Mens_clother
+public class Tie extends Clothes implements Mens_clothes
 {
-    public Tie(ClothingSize size0, String color0 , int cost0 )// конструктор
+    public Tie(ClothingSize size0, String color0 , int cost0 )
     {
         setSize(size0);
         setColor(color0);
